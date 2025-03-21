@@ -1,0 +1,248 @@
+# depslib dependency file v1.0
+1580571718 source:c:\users\fpouh\desktop\softengine\main.cpp
+	"Engine.h"
+
+1580574546 c:\users\fpouh\desktop\softengine\src\core\engine.h
+	"SDL.h"
+	"SDL_image.h"
+
+1580578907 source:c:\users\fpouh\desktop\softengine\src\core\engine.cpp
+	"Engine.h"
+	"TextureManager.h"
+	"Transform.h"
+
+1580577822 source:c:\users\fpouh\desktop\softengine\src\graphics\texturemanager.cpp
+	"TextureManager.h"
+	"Engine.h"
+
+1580576223 c:\users\fpouh\desktop\softengine\src\graphics\texturemanager.h
+	<string>
+	"SDL.h"
+	<map>
+
+1580578869 c:\users\fpouh\desktop\softengine\src\physics\transform.h
+	"Vector2D.h"
+
+1580578761 c:\users\fpouh\desktop\softengine\src\physics\vector2d.h
+	<iostream>
+
+1580571718 source:c:\users\fpouh\desktop\get\txtmgr #4\softengine\main.cpp
+	"Engine.h"
+
+1580574546 c:\users\fpouh\desktop\get\txtmgr #4\softengine\src\core\engine.h
+	"SDL.h"
+	"SDL_image.h"
+
+1580578907 source:c:\users\fpouh\desktop\get\txtmgr #4\softengine\src\core\engine.cpp
+	"Engine.h"
+	"TextureManager.h"
+	"Transform.h"
+
+1580581484 c:\users\fpouh\desktop\get\txtmgr #4\softengine\src\graphics\texturemanager.h
+	<string>
+	"SDL.h"
+	<map>
+
+1580639158 source:c:\users\fpouh\desktop\get\txtmgr #4\softengine\src\graphics\texturemanager.cpp
+	"TextureManager.h"
+	"Engine.h"
+
+1580571718 source:c:\users\phuongnb\desktop\1stproject\softengine\main.cpp
+	"Engine.h"
+
+1580574546 c:\users\phuongnb\desktop\1stproject\softengine\src\core\engine.h
+	"SDL.h"
+	"SDL_image.h"
+
+1742373539 source:c:\users\phuongnb\desktop\1stproject\softengine\src\core\engine.cpp
+	"Engine.h"
+	"TextureManager.h"
+	"Vector2D.h"
+	"Transform.h"
+	"Warrior.h"
+
+1742354655 c:\users\phuongnb\desktop\1stproject\softengine\src\graphics\texturemanager.h
+	<string>
+	"SDL.h"
+	<map>
+
+1742355710 source:c:\users\phuongnb\desktop\1stproject\softengine\src\graphics\texturemanager.cpp
+	"TextureManager.h"
+	"Engine.h"
+
+1742178342 c:\users\phuongnb\desktop\1stproject\softengine\src\physics\vector2d.h
+	<iostream>
+
+1742178565 c:\users\phuongnb\desktop\1stproject\softengine\src\physics\transform.h
+	"Vector2D.h"
+
+1742521189 source:c:\users\phuongnb\desktop\1stproject\softengine\src\characters\warrior.cpp
+	"Warrior.h"
+	"TextureManager.h"
+	"SDL.h"
+
+1742371475 c:\users\phuongnb\desktop\1stproject\softengine\src\characters\warrior.h
+	"Character.h"
+
+1742350402 c:\users\phuongnb\desktop\1stproject\softengine\src\characters\character.h
+	"GameObject.h"
+	<string>
+
+1742350153 c:\users\phuongnb\desktop\1stproject\softengine\src\object\gameobject.h
+	"IObject.h"
+	"Transform.h"
+	"SDL.h"
+	<string>
+
+1742181141 c:\users\phuongnb\desktop\1stproject\softengine\src\object\iobject.h
+
+1742553319 source:c:\users\phuongnb\desktop\1stproject\softengine - copy\main.cpp
+	"Engine.h"
+	"Timer.h"
+
+1742539823 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\core\engine.h
+	"SDL.h"
+
+1742553134 source:c:\users\phuongnb\desktop\1stproject\softengine - copy\src\characters\warrior.cpp
+	"Warrior.h"
+	"TextureManager.h"
+	"SDL.h"
+	"Engine.h"
+	<iostream>
+	"Input.h"
+	"SDL_image.h"
+
+1742545656 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\characters\warrior.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+
+1742546047 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\characters\character.h
+	"Transform.h"
+	<string>
+
+1742545765 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\physics\transform.h
+	"Vector2D.h"
+	"SDL.h"
+
+1742545656 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\physics\vector2d.h
+
+1742545247 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\graphics\texturemanager.h
+	<string>
+	<map>
+	"SDL.h"
+
+1742548171 source:c:\users\phuongnb\desktop\1stproject\softengine - copy\src\graphics\texturemanager.cpp
+	"TextureManager.h"
+	"Engine.h"
+	"SDL_image.h"
+
+1742553089 source:c:\users\phuongnb\desktop\1stproject\softengine - copy\src\core\engine.cpp
+	"Engine.h"
+	"TextureManager.h"
+	"Warrior.h"
+	"Transform.h"
+	"SDL_image.h"
+	"Input.h"
+	"Timer.h"
+
+1742545247 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\animation\animation.h
+	<string>
+	"SDL.h"
+
+1742545247 source:c:\users\phuongnb\desktop\1stproject\softengine - copy\src\animation\animation.cpp
+	"Animation.h"
+	"TextureManager.h"
+
+1742552226 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\physics\rigidbody.h
+	"Vector2D.h"
+
+1742542538 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\inputs\input.h
+	"SDL.h"
+
+1742544775 source:c:\users\phuongnb\desktop\1stproject\softengine - copy\src\inputs\input.cpp
+	"Input.h"
+	"Engine.h"
+
+1742553599 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\timer\timer.h
+	"SDL.h"
+
+1742553963 source:c:\users\phuongnb\desktop\1stproject\softengine - copy\src\timer\timer.cpp
+	"Timer.h"
+	"SDL.h"
+
+1742553319 source:c:\users\phuongnb\desktop\1stproject\upload\main.cpp
+	"Engine.h"
+	"Timer.h"
+
+1742539823 c:\users\phuongnb\desktop\1stproject\upload\src\core\engine.h
+	"SDL.h"
+
+1742553599 c:\users\phuongnb\desktop\1stproject\upload\src\timer\timer.h
+	"SDL.h"
+
+1742545247 source:c:\users\phuongnb\desktop\1stproject\upload\src\animation\animation.cpp
+	"Animation.h"
+	"TextureManager.h"
+
+1742545247 c:\users\phuongnb\desktop\1stproject\upload\src\animation\animation.h
+	<string>
+	"SDL.h"
+
+1742545247 c:\users\phuongnb\desktop\1stproject\upload\src\graphics\texturemanager.h
+	<string>
+	<map>
+	"SDL.h"
+
+1742553134 source:c:\users\phuongnb\desktop\1stproject\upload\src\characters\warrior.cpp
+	"Warrior.h"
+	"TextureManager.h"
+	"SDL.h"
+	"Engine.h"
+	<iostream>
+	"Input.h"
+	"SDL_image.h"
+
+1742545656 c:\users\phuongnb\desktop\1stproject\upload\src\characters\warrior.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+
+1742546047 c:\users\phuongnb\desktop\1stproject\upload\src\characters\character.h
+	"Transform.h"
+	<string>
+
+1742545765 c:\users\phuongnb\desktop\1stproject\upload\src\physics\transform.h
+	"Vector2D.h"
+	"SDL.h"
+
+1742545656 c:\users\phuongnb\desktop\1stproject\upload\src\physics\vector2d.h
+
+1742552226 c:\users\phuongnb\desktop\1stproject\upload\src\physics\rigidbody.h
+	"Vector2D.h"
+
+1742542538 c:\users\phuongnb\desktop\1stproject\upload\src\inputs\input.h
+	"SDL.h"
+
+1742553089 source:c:\users\phuongnb\desktop\1stproject\upload\src\core\engine.cpp
+	"Engine.h"
+	"TextureManager.h"
+	"Warrior.h"
+	"Transform.h"
+	"SDL_image.h"
+	"Input.h"
+	"Timer.h"
+
+1742548171 source:c:\users\phuongnb\desktop\1stproject\upload\src\graphics\texturemanager.cpp
+	"TextureManager.h"
+	"Engine.h"
+	"SDL_image.h"
+
+1742544775 source:c:\users\phuongnb\desktop\1stproject\upload\src\inputs\input.cpp
+	"Input.h"
+	"Engine.h"
+
+1742553963 source:c:\users\phuongnb\desktop\1stproject\upload\src\timer\timer.cpp
+	"Timer.h"
+	"SDL.h"
+
