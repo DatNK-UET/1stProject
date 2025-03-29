@@ -1,0 +1,422 @@
+# depslib dependency file v1.0
+1580571718 source:c:\users\fpouh\desktop\softengine\main.cpp
+	"Engine.h"
+
+1580574546 c:\users\fpouh\desktop\softengine\src\core\engine.h
+	"SDL.h"
+	"SDL_image.h"
+
+1580578907 source:c:\users\fpouh\desktop\softengine\src\core\engine.cpp
+	"Engine.h"
+	"TextureManager.h"
+	"Transform.h"
+
+1580577822 source:c:\users\fpouh\desktop\softengine\src\graphics\texturemanager.cpp
+	"TextureManager.h"
+	"Engine.h"
+
+1580576223 c:\users\fpouh\desktop\softengine\src\graphics\texturemanager.h
+	<string>
+	"SDL.h"
+	<map>
+
+1580578869 c:\users\fpouh\desktop\softengine\src\physics\transform.h
+	"Vector2D.h"
+
+1580578761 c:\users\fpouh\desktop\softengine\src\physics\vector2d.h
+	<iostream>
+
+1580571718 source:c:\users\fpouh\desktop\get\txtmgr #4\softengine\main.cpp
+	"Engine.h"
+
+1580574546 c:\users\fpouh\desktop\get\txtmgr #4\softengine\src\core\engine.h
+	"SDL.h"
+	"SDL_image.h"
+
+1580578907 source:c:\users\fpouh\desktop\get\txtmgr #4\softengine\src\core\engine.cpp
+	"Engine.h"
+	"TextureManager.h"
+	"Transform.h"
+
+1580581484 c:\users\fpouh\desktop\get\txtmgr #4\softengine\src\graphics\texturemanager.h
+	<string>
+	"SDL.h"
+	<map>
+
+1580639158 source:c:\users\fpouh\desktop\get\txtmgr #4\softengine\src\graphics\texturemanager.cpp
+	"TextureManager.h"
+	"Engine.h"
+
+1580571718 source:c:\users\phuongnb\desktop\1stproject\softengine\main.cpp
+	"Engine.h"
+
+1580574546 c:\users\phuongnb\desktop\1stproject\softengine\src\core\engine.h
+	"SDL.h"
+	"SDL_image.h"
+
+1742373539 source:c:\users\phuongnb\desktop\1stproject\softengine\src\core\engine.cpp
+	"Engine.h"
+	"TextureManager.h"
+	"Vector2D.h"
+	"Transform.h"
+	"Warrior.h"
+
+1742354655 c:\users\phuongnb\desktop\1stproject\softengine\src\graphics\texturemanager.h
+	<string>
+	"SDL.h"
+	<map>
+
+1742355710 source:c:\users\phuongnb\desktop\1stproject\softengine\src\graphics\texturemanager.cpp
+	"TextureManager.h"
+	"Engine.h"
+
+1742178342 c:\users\phuongnb\desktop\1stproject\softengine\src\physics\vector2d.h
+	<iostream>
+
+1742178565 c:\users\phuongnb\desktop\1stproject\softengine\src\physics\transform.h
+	"Vector2D.h"
+
+1742521189 source:c:\users\phuongnb\desktop\1stproject\softengine\src\characters\warrior.cpp
+	"Warrior.h"
+	"TextureManager.h"
+	"SDL.h"
+
+1742371475 c:\users\phuongnb\desktop\1stproject\softengine\src\characters\warrior.h
+	"Character.h"
+
+1742350402 c:\users\phuongnb\desktop\1stproject\softengine\src\characters\character.h
+	"GameObject.h"
+	<string>
+
+1742350153 c:\users\phuongnb\desktop\1stproject\softengine\src\object\gameobject.h
+	"IObject.h"
+	"Transform.h"
+	"SDL.h"
+	<string>
+
+1742181141 c:\users\phuongnb\desktop\1stproject\softengine\src\object\iobject.h
+
+1742553319 source:c:\users\phuongnb\desktop\1stproject\softengine - copy\main.cpp
+	"Engine.h"
+	"Timer.h"
+
+1742539823 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\core\engine.h
+	"SDL.h"
+
+1742553134 source:c:\users\phuongnb\desktop\1stproject\softengine - copy\src\characters\warrior.cpp
+	"Warrior.h"
+	"TextureManager.h"
+	"SDL.h"
+	"Engine.h"
+	<iostream>
+	"Input.h"
+	"SDL_image.h"
+
+1742545656 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\characters\warrior.h
+	"Character.h"
+	"Animation.h"
+	"RigidBody.h"
+
+1742546047 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\characters\character.h
+	"Transform.h"
+	<string>
+
+1742545765 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\physics\transform.h
+	"Vector2D.h"
+	"SDL.h"
+
+1742545656 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\physics\vector2d.h
+
+1742545247 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\graphics\texturemanager.h
+	<string>
+	<map>
+	"SDL.h"
+
+1742548171 source:c:\users\phuongnb\desktop\1stproject\softengine - copy\src\graphics\texturemanager.cpp
+	"TextureManager.h"
+	"Engine.h"
+	"SDL_image.h"
+
+1742553089 source:c:\users\phuongnb\desktop\1stproject\softengine - copy\src\core\engine.cpp
+	"Engine.h"
+	"TextureManager.h"
+	"Warrior.h"
+	"Transform.h"
+	"SDL_image.h"
+	"Input.h"
+	"Timer.h"
+
+1742545247 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\animation\animation.h
+	<string>
+	"SDL.h"
+
+1742545247 source:c:\users\phuongnb\desktop\1stproject\softengine - copy\src\animation\animation.cpp
+	"Animation.h"
+	"TextureManager.h"
+
+1742552226 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\physics\rigidbody.h
+	"Vector2D.h"
+
+1742542538 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\inputs\input.h
+	"SDL.h"
+
+1742544775 source:c:\users\phuongnb\desktop\1stproject\softengine - copy\src\inputs\input.cpp
+	"Input.h"
+	"Engine.h"
+
+1742553599 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\timer\timer.h
+	"SDL.h"
+
+1742553963 source:c:\users\phuongnb\desktop\1stproject\softengine - copy\src\timer\timer.cpp
+	"Timer.h"
+	"SDL.h"
+
+1742568399 source:c:\users\phuongnb\desktop\1stproject\softengine - copy\src\vendor\tinyxml-master\tinystr.cpp
+	"tinystr.h"
+
+1742568399 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\vendor\tinyxml-master\tinystr.h
+	<assert.h>
+	<string.h>
+
+1742568400 source:c:\users\phuongnb\desktop\1stproject\softengine - copy\src\vendor\tinyxml-master\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1742723790 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\vendor\tinyxml-master\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1742568400 source:c:\users\phuongnb\desktop\1stproject\softengine - copy\src\vendor\tinyxml-master\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1742568400 source:c:\users\phuongnb\desktop\1stproject\softengine - copy\src\vendor\tinyxml-master\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1742723193 source:c:\users\phuongnb\desktop\1stproject\softengine - copy\src\map\tilelayer.cpp
+	"TileLayer.h"
+
+1742722883 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\map\tilelayer.h
+	"Layer.h"
+	<vector>
+	<string>
+
+1742568273 c:\users\phuongnb\desktop\1stproject\softengine - copy\src\map\layer.h
+
+1742553319 source:c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\main.cpp
+	"Engine.h"
+	"Timer.h"
+
+1743174837 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\core\engine.h
+	"SDL.h"
+	"GameMap.h"
+
+1742553599 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\timer\timer.h
+	"SDL.h"
+
+1742545247 source:c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\animation\animation.cpp
+	"Animation.h"
+	"TextureManager.h"
+
+1743173901 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\animation\animation.h
+	"TextureManager.h"
+	<string>
+	"SDL.h"
+
+1742786712 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\graphics\texturemanager.h
+	<string>
+	<map>
+	"SDL.h"
+
+1743176702 source:c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\characters\warrior.cpp
+	"Warrior.h"
+	"Animation.h"
+	"RigidBody.h"
+	"Collider.h"
+	"Transform.h"
+	"TextureManager.h"
+	"SDL.h"
+	"Engine.h"
+	<iostream>
+	"Input.h"
+	"SDL_image.h"
+	"CollisionHandler.h"
+	"Camera.h"
+
+1743177619 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\characters\warrior.h
+	"Character.h"
+	"Point.h"
+	"Vector2D.h"
+
+1743174483 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\characters\character.h
+	"Transform.h"
+	<string>
+
+1742545765 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\physics\transform.h
+	"Vector2D.h"
+	"SDL.h"
+
+1742545656 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\physics\vector2d.h
+
+1743175516 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\physics\rigidbody.h
+	"Vector2D.h"
+
+1742542538 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\inputs\input.h
+	"SDL.h"
+
+1743173901 source:c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\core\engine.cpp
+	"Engine.h"
+	"SDL.h"
+	"SDL_image.h"
+	"TextureManager.h"
+	"Warrior.h"
+	"Transform.h"
+	"Input.h"
+	"Timer.h"
+	"MapParser.h"
+	<iostream>
+	"Camera.h"
+
+1743174565 source:c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\graphics\texturemanager.cpp
+	"TextureManager.h"
+	"Engine.h"
+	"Camera.h"
+	"SDL_image.h"
+	<cmath>
+	<iostream>
+
+1742544775 source:c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\inputs\input.cpp
+	"Input.h"
+	"Engine.h"
+
+1742893363 source:c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\map\tilelayer.cpp
+	"TileLayer.h"
+	"TextureManager.h"
+	"Camera.h"
+	<iostream>
+
+1742824502 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\map\tilelayer.h
+	"Layer.h"
+	<vector>
+	<string>
+	<algorithm>
+
+1742568273 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\map\layer.h
+
+1742553963 source:c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\timer\timer.cpp
+	"Timer.h"
+	"SDL.h"
+
+1742568399 source:c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\vendor\tinyxml-master\tinystr.cpp
+	"tinystr.h"
+
+1742568399 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\vendor\tinyxml-master\tinystr.h
+	<assert.h>
+	<string.h>
+
+1742568400 source:c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\vendor\tinyxml-master\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1742727164 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\vendor\tinyxml-master\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1742568400 source:c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\vendor\tinyxml-master\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1742568400 source:c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\vendor\tinyxml-master\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1742777321 source:c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\vendor\tinyxml2\tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1742777321 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\vendor\tinyxml2\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1742824414 source:c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\map\mapparser.cpp
+	"MapParser.h"
+	<iostream>
+	<sstream>
+
+1742790632 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\map\mapparser.h
+	<map>
+	<string>
+	"GameMap.h"
+	"TileLayer.h"
+	"../Vendor/tinyxml2/tinyxml2.h"
+
+1742912696 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\map\gamemap.h
+	<vector>
+	"Layer.h"
+
+1742565370 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\\gamemap.h
+
+1743173901 source:c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\camera\camera.cpp
+	"Camera.h"
+	"Engine.h"
+
+1743174714 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\camera\camera.h
+	"Point.h"
+	"Vector2D.h"
+	"SDL.h"
+	"Engine.h"
+
+1742887476 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\physics\point.h
+	<iostream>
+	<string>
+
+1742912696 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\physics\collider.h
+	"SDL.h"
+
+1743173901 source:c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\collision\collisionhandler.cpp
+	"CollisionHandler.h"
+	"Engine.h"
+
+1743173901 c:\users\phuongnb\desktop\1stproject\softengine - copy - copy\src\collision\collisionhandler.h
+	"SDL.h"
+	<vector>
+	"TileLayer.h"
+	"GameMap.h"
+
