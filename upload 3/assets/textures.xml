@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<textures>
+    <texture id="player" source="assets/breathing.png"/>
+    <texture id="run" source="assets/running.png"/>
+    <texture id="jump" source="assets/jump.png"/>
+    <texture id="bg" source="assets/bg.png"/>
+</textures>
