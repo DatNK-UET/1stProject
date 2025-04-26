@@ -50,7 +50,7 @@
 
 1. Tải Repository:
 
-    git clone https://github.com/nmhienbn/Block-Adventure.git  
+    git clone https://github.com/DatNK-UET/1stProject?tab=readme-ov-file
     cd Block-Adventure
 
 2. Cài Thư Viện:
