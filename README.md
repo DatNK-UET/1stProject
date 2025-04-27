@@ -1,8 +1,14 @@
 
 
+![ChatGPT Image 10_50_00 27 thg 4, 2025](https://github.com/user-attachments/assets/346ef170-4f64-459c-b7e2-f0b766bda629)
 
 
-**Block Adventure** là một trò chơi platformer 2D được xây dựng bằng C++ và SDL2. Người chơi điều khiển một chiến binh di chuyển qua các màn chơi, bắn đạn, né kẻ thù và tìm cánh cửa để hoàn thành màn. Dự án này là tài liệu học tập hữu ích cho những ai muốn tìm hiểu về phát triển game với SDL2, tập trung vào lập trình hướng đối tượng, vật lý và render.
+**Arcane Knight** là một trò chơi platformer 2D được xây dựng bằng C++ và SDL2. Người chơi điều khiển một chiến binh di chuyển qua các màn chơi, bắn đạn, né kẻ thù và tìm cánh cửa để hoàn thành màn. Dự án này là tài liệu học tập hữu ích cho những ai muốn tìm hiểu về phát triển game với SDL2, tập trung vào lập trình hướng đối tượng, vật lý và render.
+
+
+
+[![Arcane Knight Trailer](https://img.youtube.com/vi/0gxGH9Pu0kI/0.jpg)](https://youtu.be/0gxGH9Pu0kI)
+
 
 ## Mục Lục
 
@@ -11,7 +17,7 @@
 - [Cài Đặt](#cài-đặt)
 - [Cách Chơi](#cách-chơi)
 - [Cơ Chế Game](#cơ-chế-game)
-- [Cấu Trúc Dự Án](#cấu-trúc-dự-án)
+- [Source](#Source)
 
 
 ## Tính Năng
@@ -26,8 +32,15 @@
 - **Âm Thanh**: Nhạc nền qua SDL2 Mixer.
 - **Đồng Hồ**: Theo dõi và hiển thị thời gian chơi.
 - **Debug**: Log chi tiết vị trí, va chạm, trạng thái game.
+  
+ <img width="397" alt="Untitled2" src="https://github.com/user-attachments/assets/94b15175-1b9c-4b0a-9d7a-b00c882cd4f6" />
+
+ 
 
 ## Công Nghệ
+
+
+
 
 - **C++**: Logic game.
 - **SDL2**: Render, input, cửa sổ.
@@ -37,7 +50,11 @@
 - **TinyXML2**: Phân tích file .tmx.
 - **Tiled Map Editor**: Thiết kế bản đồ.
 
+ <img width="597" alt="Screenshot 2025-04-27 233705" src="https://github.com/user-attachments/assets/f2645cf6-2359-4a26-b6b3-94fbb67b77ad" />
+
 ## Cài Đặt
+
+
 
 ### Yêu Cầu
 
@@ -51,7 +68,7 @@
 1. Tải Repository:
 
     git clone https://github.com/DatNK-UET/1stProject?tab=readme-ov-file
-    cd Block-Adventure
+    cd Arcane-Knight
 
 2. Cài Thư Viện:
 
@@ -79,7 +96,7 @@
 
 4. Chạy Game:
 
-    ./Block-Adventure
+    ./Arcane Knight
 
 ## Cách Chơi
 
@@ -102,7 +119,7 @@
 
 ### Kẻ Thù
 
-- Kích thước: 64×64 px  
+- Kích thước: 24×24 px  
 - Phạm vi tuần tra: 200 px, tốc độ 100 px/s  
 
 ### Cửa
@@ -126,35 +143,13 @@
 - Trọng lực: 1500 px/s² (nhân vật), 1600 px/s² (kẻ thù)  
 - Va chạm AABB với bước chia nhỏ  
 
-## Cấu Trúc Dự Án
 
-    Block-Adventure/
-    ├── assets/
-    │   ├── maps/
-    │   │   ├── map1.tmx
-    │   │   ├── map2.tmx
-    │   │   ├── platforms.png
-    │   │   ├── world_tileset.png
-    │   │   └── coin.png
-    │   └── arial.ttf
-    ├── src/
-    │   ├── Audio/
-    │   ├── Camera/
-    │   ├── Characters/
-    │   ├── Collision/
-    │   ├── Core/
-    │   ├── Factory/
-    │   ├── Graphics/
-    │   ├── Inputs/
-    │   ├── Map/
-    │   ├── Object/
-    │   ├── Physics/
-    │   ├── States/
-    │   └── Timer/
-    └── README.md
-"""
 
-with open("/mnt/data/README.txt", "w", encoding="utf-8") as f:
-    f.write(content)
+## Source
 
-"/mnt/data/README.txt"
+- Asset: https://brackeysgames.itch.io/brackeys-platformer-bundle
+
+
+    
+
+
